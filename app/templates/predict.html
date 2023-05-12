@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+    <title>Laptop Price Prediction</title>
+  </head>
+  <body>
+    <div class="bg-img"></div>
+    <div class="box">
+      <div class="form-box">
+        <form action="{{url_for('index')}}">
+          <h3 class="heading">Result :</h3>
+          <div class="row margin-btm-sm">
+            <label for="comp">Merk</label><br />
+            <select disabled>
+              <option select>{{result['comp']}}</option>
+            </select>
+          </div>
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="type">Type</label><br />
+              <select disabled>
+                <option select>{{result['type']}}</option>
+              </select>
+            </div>
+            <div class="row">
+              <label for="inch">Inches</label><br />
+              <select disabled>
+                <option select>{{result['inch']}}</option>
+              </select>
+            </div>
+          </div>
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="cpu">CPU</label><br />
+              <select disabled>
+                <option select>{{result['cpu']}}</option>
+              </select>
+            </div>
+            <div class="row">
+              <label for="gen">Generation</label><br />
+              <select disabled>
+                <option select>{{result['gen']}}</option>
+              </select>
+            </div>
+          </div>
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="ram">RAM</label><br />
+              <select disabled>
+                <option select>{{result['ram']}}</option>
+              </select>
+            </div>
+            <div class="row">
+              <label for="gpu">GPU</label><br />
+              <select disabled>
+                <option select>{{result['gpu']}}</option>
+              </select>
+            </div>
+          </div>
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="os">OS Windows</label><br />
+              <select disabled>
+                <option select>{{result['os']}}</option>
+              </select>
+            </div>
+            <div class="row">
+              <label for="weight">Weight</label><br />
+              <select disabled>
+                <option select>{{result['weight']}}kg</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="HDD">HDD</label><br />
+              <select disabled>
+                <option select>{{result['HDD']}}GB</option>
+              </select>
+            </div>
+            <div class="row">
+              <label for="ssd">SSD</label><br />
+              <select disabled>
+                <option select>{{result['ssd']}}GB</option>
+              </select>
+            </div>
+          </div>
+          <button class="btn">BACK</button>
+        </form>
+        <p class="predict">
+          Estimated Price Around : Rp. {{lower}} - {{higher}}
+        </p>
+      </div>
+      <img
+        class="box-img"
+        src="{{ url_for('static', filename='img/1.jpg') }}"
+        alt=""
+      />
+    </div>
+    <script
+      type="text/javascript"
+      src="{{ url_for('static', filename='javascript/index.js') }}"
+    ></script>
+  </body>
+</html>

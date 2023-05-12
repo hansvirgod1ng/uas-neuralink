@@ -1,0 +1,302 @@
+﻿Company,Type,Inches,CPU,Generation,RAM,Memory,GPU,OS,Weight,Price
+Hp,Ultrabook,14,Core i5,4,8GB,500GB HDD,Nvidia,Windows 8,2kg,2300000
+Hp,Ultrabook,14,Core i7,1,4GB,500GB HDD,Intel,Windows 10,2kg,1200000
+Hp,2 in 1,14,Core i7,8,8GB,500GB SSD,Nvidia,Windows 10,2kg,3800000
+Hp,Gaming,15,Core i7,7,16GB,256GB SSD,Intel + Nvidia GTX,Windows 10,4kg,6000000
+Acer,Workstation,15,Core i7,3,8GB,256GB SSD,Intel + Nvidia,Windows 10,3kg,2800000
+Acer,Ultrabook,14,Core i7,7,8GB,128GB SSD,Intel,Windows 10,2kg,3300000
+Hp,Ultrabook,13,Core i7,1,4GB,128GB SSD,Intel + AMD,Windows 10,2kg,1800000
+Acer,Workstation,15,Core i7,3,8GB,320GB HDD,Intel + Nvidia,Windows 7,2kg,2300000
+Lenovo,2 in 1,14,Core i7,5,4GB,500GB HDD,Intel + Nvidia,Windows 10,2kg,3300000
+Asus,Ultrabook,14,Core i7,3,4GB,128GB SSD,Intel,Windows 10,2kg,3150000
+Thinkpad,Workstation,12,Core i5,6,4GB,128GB SSD,Intel,Windows 10,2kg,2600000
+Acer,Ultrabook,15,Core i5,6,8GB,1000GB HDD,Nvidia,Windows 10,2kg,3500000
+Lenovo,Workstation,12,Core i5,6,8GB,256GB SSD,Intel,Windows 11,2kg,2700000
+Lenovo,2 in 1,14,Core i5,7,8GB,256GB SSD,Intel,Windows 10,2kg,4300000
+Lenovo,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel,Windows 10,2kg,2900000
+Samsung,Notebook,14,Core i5,1,4GB,120GB SSD,AMD,Windows 10,2kg,1500000
+Acer,Notebook,14,Core i5,1,4GB,500GB HDD,Intel,Windows 10,2kg,1600000
+Hp,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel,Windows 10,2kg,4000000
+Acer,Ultrabook,15,Core i5,7,8GB,128GB SSD + 1000GB HDD,Intel + Nvidia,Windows 10,2kg,3600000
+Acer,Notebook,14,Core i5,2,8GB,500GB HDD,Intel + Nvidia,Windows 7,2kg,1800000
+Dell,Ultrabook,13,Core i5,6,8GB,500GB HDD,Intel,Windows 10,2kg,2400000
+Dell,Workstation,13,Core i5,4,8GB,128GB SSD,Intel,Windows 10,2kg,2300000
+Hp,Workstation,14,Core i7,1,4GB,500GB HDD,Intel,Windows 10,2kg,1200000
+Dell,Workstation,13,Core i7,4,8GB,256GB SSD,Intel,Windows 11,2kg,2800000
+Dell,Ultrabook,14,Core i5,1,4GB,500GB HDD,Intel,Windows 10,2kg,1500000
+Hp,2 in 1,14,Core i5,6,8GB,256GB SSD,Intel,Windows 11,2kg,3500000
+Lenovo,Workstation,14,Core i5,6,8GB,256GB SSD,Intel,Windows 10,2kg,2500000
+Hp,Ultrabook,14,Core i5,5,8GB,128GB SSD,Intel,Windows 11,2kg,2300000
+Lenovo,Workstation,14,Core i5,8,8GB,256GB SSD,Intel,Windows 11,2kg,3900000
+Acer,Ultrabook,14,Core i5,10,8GB,512GB SSD,Intel + Nvidia,Windows 10,2kg,4700000
+Dell,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel,Windows 11,2kg,4300000
+Asus,Ultrabook,14,Core i3,3,4GB,500GB HDD,Intel,Windows 10,2kg,1600000
+Acer,Ultrabook,14,Core i5,2,8GB,128GB SSD,Intel,Windows 10,2kg,1800000
+Asus,Ultrabook,14,Core i5,4,8GB,128GB SSD,Intel,Windows 10,2kg,2400000
+Sony Vaio,Notebook,14,Core i3,1,4GB,500GB HDD,Nvidia,Windows 10,2kg,1300000
+ROG,Gaming,17,Core i5,7,12GB,512GB SSD,Nvidia GTX,Windows 10,3kg,9500000
+Asus,Ultrabook,14,Core i7,4,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3700000
+Asus,Gaming,15,Core i7,6,8GB,1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,5800000
+Predator ,Gaming,17,Core i7,6,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,4kg,7700000
+ROG,Gaming,15,Core i7,10,16GB,1000GB SSD,Nvidia GTX,Windows 11,3kg,11500000
+Lenovo,Gaming,15,Core i5,12,8GB,512GB SSD,Nvidia RTX,Windows 11,3kg,13500000
+Asus,Gaming,15,Core i7,11,16GB,512GB SSD,Nvidia RTX,Windows 10,3kg,10000000
+MSI,Gaming,15,Core i7,11,16GB,512GB SSD,Nvidia RTX,Windows 11,3kg,13700000
+Acer,Gaming,15,Core i7,8,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 11,3kg,8500000
+Dell,Gaming,15,Core i5,7,16GB,128GB SSD + 320GB HDD,Nvidia GTX,Windows 10,3kg,4800000
+Acer,Gaming,15,Ryzen 5,4,16GB,512GB SSD,Nvidia GTX,Windows 10,3kg,8500000
+Dell,Ultrabook,13,Core i7,8,8GB,256GB SSD,Intel,Windows 10,2kg,4600000
+Acer,Ultrabook,14,Core i5,8,8GB,128GB SSD + 1000GB HDD,Nvidia,Windows 10,2kg,3900000
+Acer,Ultrabook,14,Core i7,4,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3000000
+Asus,Ultrabook,14,Core i7,4,16GB,1000GB HDD,Intel + Nvidia,Windows 10,2kg,3200000
+Acer,Ultrabook,14,Core i5,2,8GB,500GB HDD,Intel + Nvidia,Windows 7,2kg,1650000
+Acer,Ultrabook,14,Core i5,7,8GB,128GB SSD + 1000GB HDD,Intel + Nvidia,Windows 10,2kg,3550000
+Hp,Ultrabook,14,Core i7,8,8GB,128GB SSD + 1000GB HDD,Intel + Nvidia,Windows 10,2kg,4500000
+Acer,Gaming,15,Core i7,6,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,4500000
+MSI,Gaming,15,Core i7,4,8GB,256GB SSD,Nvidia GTX,Windows 10,4kg,3500000
+Lenovo,Ultrabook,14,Core i5,5,8GB,500GB SSD,Intel + Nvidia,Windows 10,3kg,2900000
+Hp,Ultrabook,14,Core i5,3,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,2500000
+Dell,Ultrabook,14,Core i5,6,4GB,500GB HDD,Intel + AMD,Windows 10,2kg,2700000
+ROG,Gaming,17,Core i7,7,8GB,256GB SSD,Intel + Nvidia GTX,Windows 11,4kg,6600000
+Acer,Ultrabook,14,Core i7,6,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3600000
+Lenovo,Ultrabook,14,Core i5,8,8GB,256GB SSD + 1000GB HDD,Intel + Nvidia,Windows 10,2kg,3700000
+Acer,Ultrabook,14,Core i7,8,8GB,512GB SSD,Intel + Nvidia,Windows 10,2kg,6500000
+Asus,Ultrabook,15,Core i7,7,16GB,256GB SSD,Intel + Nvidia,Windows 10,3kg,4500000
+Asus,Ultrabook,14,Core i7,7,8GB,256GB SSD,Intel,Windows 10,2kg,4200000
+Alienware,Gaming,15,Core i7,6,8GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,4kg,8500000
+Asus,Gaming,15,Core i7,6,8GB,512GB SSD,Intel + Nvidia,Windows 10,3kg,4500000
+Dell,Ultrabook,15,Core i7,3,8GB,256GB SSD,Intel + Nvidia,Windows 10,3kg,3500000
+Hp,Gaming,15,Core i7,7,16GB,256GB SSD,Intel + Nvidia GTX,Windows 10,3kg,6500000
+Asus,Ultrabook,15,Core i7,4,8GB,250GB SSD,Intel + Nvidia,Windows 10,3kg,2800000
+Hp,Workstation,14,Core i7,3,16GB,250GB SSD,Nvidia,Windows 10,2kg,3000000
+Acer,Ultrabook,14,Core i5,6,8GB,256GB SSD,Intel,Windows 10,2kg,3400000
+Acer,Workstation,14,Core i7,2,8GB,750GB,Intel + Nvidia,Windows 10,2kg,2000000
+Asus,Notebook,14,Core i5,1,8GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,1650000
+Asus,Ultrabook,15,Core i7,2,8GB,128GB SSD,Intel + Nvidia,Windows 7,2kg,1800000
+Hp,Ultrabook,14,Core i5,5,8GB,500GB HDD,Intel + Nvidia,Windows 10,2kg,2000000
+Acer,Gaming,15,Ryzen 7,4,8GB,512GB SSD,Nvidia GTX,Windows 10,3kg,9500000
+MSI,Gaming,15,Core i7,8,32GB,512GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,8500000
+Acer,Ultrabook,14,Core i7,4,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3050000
+Acer,Workstation,14,Core i7,2,8GB,640GB HDD,Intel + Nvidia,Windows 10,2kg,1900000
+Hp,Ultrabook,14,Ryzen 5 Pro,2,16GB,256GB SSD,AMD,Windows 10,2kg,4500000
+Hp,Gaming,15,Core i7,8,16GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,8000000
+Dell,Ultrabook,13,Core i7,5,8GB,256GB SSD,Intel,Windows 11,2kg,3000000
+Dell,2 in 1,15,Core i7,4,8GB,500GB SSD,Intel + Nvidia,Windows 10,3kg,4300000
+Acer,Gaming,15,Core i7,8,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,8000000
+Acer,Ultrabook,14,Core i5,4,6GB,750GB HDD,Intel,Windows 10,2kg,2400000
+Fujitsu,Workstation,14,Core i5,2,8GB,640GB HDD,Intel,Windows 10,2kg,1500000
+Fujitsu,Workstation,14,Core i5,2,6GB,500GB HDD,Intel + Nvidia,Windows 10,2kg,1800000
+Fujitsu,Ultrabook,14,Core i7,8,20GB,512GB SSD,Intel,Windows 10,2kg,5000000
+Fujitsu,Workstation,14,Core i7,2,8GB,500GB HDD,Intel + Nvidia,Windows 10,2kg,2100000
+Fujitsu,Ultrabook,14,Core i7,10,16GB,512GB SSD,Intel,Windows 10,2kg,7500000
+Fujitsu,Notebook,14,Core i3,1,4GB,320GB HDD,Intel,Windows 7,2kg,1400000
+Fujitsu,Ultrabook,14,Core i5,3,4GB,500GB,Intel,Windows 10,2kg,1800000
+Fujitsu,Workstation,14,Core i7,2,8GB,500B HDD,Intel + Nvidia,Windows 7,2kg,2200000
+Fujitsu,Ultrabook,14,Core i5,6,8GB,128GB SSD,Intel,Windows 10,2kg,3100000
+Dell,2 in 1,15,Core i7,7,16GB,1000GB SSD,Nvidia GTX,Windows 10,3kg,8500000
+Dell,Notebook,14,Core i5,2,4GB,500GB HDD,Intel,Windows 10,2kg,1600000
+Dell,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel,Windows 10,2kg,4000000
+Dell,Ultrabook,14,Core i7,11,16GB,512GB SSD,Intel,Windows 11,2kg,8200000
+Toshiba,Ultrabook,14,Core i5,4,8GB,128GB SSD,Intel,Windows 10,2kg,2400000
+Toshiba,Ultrabook,14,Core i5,2,4GB,320GB HDD,Intel,Windows 10,2kg,1500000
+Toshiba,Ultrabook,14,Core i3,1,4GB,320GB HDD,Intel,Windows 10,2kg,1300000
+Toshiba,Ultrabook,14,Core i5,2,8GB,500GB HDD,Intel + Nvidia,Windows 10,2kg,1700000
+Alienware,Gaming,15,Core i7,9,16GB,512GB SSD,Intel,Windows 11,3kg,6800000
+Alienware,Gaming,15,Core i7,6,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,4kg,7800000
+Alienware,Gaming,15,Core i7,3,16GB,256GB SSD,Intel + Nvidia,Windows 10,3kg,3500000
+Alienware,Gaming,15,Core i7,2,16GB,128GB SSD + 750GB HDD,Intel + Nvidia,Windows 10,3kg,2800000
+Alienware,Gaming,15,Core i7,3,8GB,750GB HDD,Nvidia,Windows 10,3kg,3800000
+Asus,Ultrabook,14,Core i7,8,16GB,512GB SSD,Nvidia,Windows 10,2kg,7800000
+ROG,Gaming,17,Core i7,9,16GB,512GB SSD,Intel + Nvidia GTX,Windows 10,3kg,10000000
+Asus,Gaming,15,Core i7,8,32GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,8500000
+Asus,Gaming,15,Ryzen 5,4,8GB,512GB SSD,Nvidia GTX,Windows 10,3kg,10000000
+Asus,Gaming,15,Core i7,8,8GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,7500000
+Asus,Gaming,15,Core i5,11,8GB,512GB SSD,Nvidia RTX,Windows 11,3kg,13500000
+Asus,Gaming,15,Ryzen 5,3,16GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,8000000
+ROG,Gaming,17,Core i7,6,8GB,256GB SSD + 500GB HDD,Nvidia GTX,Windows 10,4kg,6500000
+Asus,Gaming,15,Core i5,10,8GB,512GB SSD,Intel + Nvidia GTX,Windows 10,3kg,8900000
+ROG,Gaming,15,Core i5,9,8GB,512GB SSD,Intel + Nvidia GTX,Windows 10,4kg,8500000
+Lenovo,Ultrabook,14,Ryzen 7,4,8GB,512GB SSD,AMD,Windows 10,2kg,6500000
+Hp,Gaming,15,Core i7,7,16GB,256GB + 1000GB HDD,Nvidia GTX,Windows 10,3kg,8200000
+Dell,Ultrabook,15,Core i7,9,16GB,128GB SSD,Intel + Nvidia,Windows 10,3kg,6500000
+Hp,2 in 1,14,Core i5,8,8GB,256GB SSD,Intel,Windows 10,2kg,4800000
+Lenovo,Ultrabook,14,Core i5,7,8GB,256GB SSD,Intel + AMD,Windows 10,2kg,3500000
+Hp,Gaming,15,Core i7,8,16GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,8500000
+Acer,Ultrabook,14,Core i5,1,8GB,128GB SSD,Intel,Windows 10,2kg,1500000
+Asus,Workstation,14,Core i5,2,8GB,240GB SSD,Intel + Nvidia,Windows 10,2kg,1800000
+Dell,Ultrabook,14,Core i5,7,8GB,256GB SSD,Intel + AMD,Windows 10,2kg,3300000
+Asus,Ultrabook,15,Core i7,5,8GB,256GB SSD,Intel + Nvidia,Windows 10,3kg,3200000
+Lenovo,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel + AMD,Windows 10,2kg,3800000
+Hp,Workstation,14,Core i5,3,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,2300000
+Asus,Ultrabook,14,Core i5,3,4GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,2200000
+Acer,Ultrabook,14,Core i5,8,8GB,512GB SSD,Intel + Nvidia,Windows 10,2kg,4400000
+Thinkpad,Workstation,14,Core i5,8,8GB,256GB SSD,Intel,Windows 11,2kg,3300000
+Dell,Ultrabook,14,Core i7,8,8GB,256GB SSD,Intel,Windows 10,2kg,5000000
+Hp,Gaming,17,Core i7,11,16GB,512GB SSD,Nvidia RTX,Windows 11,4kg,13000000
+Lenovo,Ultrabook,14,Core i5,8,8GB,512GB SSD,Intel + Nvidia,Windows 11,2kg,3800000
+Acer,Ultrabook,14,Core i5,2,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,1800000
+Lenovo,Gaming,15,Core i7,4,16GB,256GB SSD,Intel + Nvidia,Windows 10,3kg,3500000
+Hp,Ultrabook,15,Core i7,6,8GB,128GB SSD + 1000GB HDD,Intel + Nvidia,Windows 10,3kg,4500000
+Thinkpad,2 in 1,13,Core i5,4,4GB,256GB SSD,Intel,Windows 10,2kg,2900000
+Lenovo,Ultrabook,14,Core i7,10,8GB,256GB SSD,Intel,Windows 10,2kg,5000000
+Lenovo,Ultrabook,15,Core i7,4,8GB,1000GB HDD,Intel + Nvidia,Windows 10,3kg,3400000
+Hp,Ultrabook,15,Ryzen 3,2,8GB,1000GB HDD,AMD,Windows 10,2kg,2500000
+Lenovo,2 in 1,15,Ryzen 5,5,12GB,512GB SSD,AMD,Windows 11,2kg,6700000
+Thinkpad,Workstation,14,Core i5,5,8GB,128GB SSD,Intel,Windows 10,2kg,3300000
+Asus,2 in 1,15,Core i5,8,12GB,256GB SSD,Intel,Windows 10,2kg,5500000
+Asus,Ultrabook,14,Core i5,3,4GB,256GB SSD,Intel,Windows 10,2kg,2200000
+Thinkpad,Workstation,13,Core i5,3,8GB,256GB SSD,Intel,Windows 10,2kg,1700000
+Acer,2 in 1,14,Core i5,8,8GB,512GB SSD,Intel,Windows 10,2kg,4500000
+Acer,2 in 1,15,Core i5,3,8GB,256GB SSD,Intel,Windows 10,2kg,2200000
+Asus,2 in 1,14,Core i3,9,8GB,256GB SSD + 500GB HDD,Intel,Windows 10,2kg,3800000
+Hp,Ultrabook,14,Core i7,6,8GB,256GB SSD,Intel,Windows 10,2kg,3500000
+Dell,Ultrabook,15,Core i7,9,16GB,512GB SSD,Intel + Nvidia GTX,Windows 10,2kg,8600000
+Hp,Gaming,15,Core i7,8,16GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,8800000
+Acer,Ultrabook,14,Core i7,4,8GB,128GB SSD,Intel,Windows 11,2kg,2600000
+Hp,Workstation,15,Core i7,3,8GB,128GB SSD,Intel + AMD,Windows 10,2kg,2100000
+Acer,Workstation,14,Core i5,1,8GB,500GB HDD,Intel,Windows 10,2kg,1700000
+Lenovo,Workstation,14,Core i5,2,10GB,128GB SSD + 500GB HDD,Intel,Windows 10,2kg,2100000
+Acer,Gaming,15,Core i7,8,16GB,SSD 128GB + 1000GB HDD,Intel + Nvidia GTX,Windows 10,2kg,8500000
+Hp,Workstation,15,Core i7,2,8GB,256GB SSD,Intel + AMD,Windows 10,2kg,2100000
+Fujitsu,Workstation,14,Core i5,2,8GB,500GB HDD,Intel,Windows 10,2kg,1700000
+Toshiba,Ultrabook,14,Core i5,4,6GB,500GB HDD,Intel,Windows 10,2kg,2200000
+Dell,Ultrabook,14,Core i5,3,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,2300000
+Hp,Gaming,15,Core i7,6,16GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,5500000
+ROG,Gaming,17,Core i7,6,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,5000000
+Hp,Ultrabook,14,Core i7,8,8GB,256GB SSD,Intel,Windows 10,2kg,5500000
+Hp,Ultrabook,14,Core i7,6,8GB,256GB SSD,Intel,Windows 10,2kg,4500000
+MSI,Gaming,15,Core i7,11,8GB,512GB SSD,Intel + Nvidia GTX,Windows 10,3kg,9700000
+MSI,Gaming,15,Core i7,8,32GB,512GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 11,3kg,8200000
+Hp,Ultrabook,15,Core i7,10,16GB,1000GB SSD,Intel + Nvidia,Windows 11,2kg,7900000
+Asus,Gaming,15,Core i7,9,16GB,512GB SSD,Intel + Nvidia GTX,Windows 10,2kg,8800000
+Asus,Gaming,15,Core i7,8,8GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 11,3kg,7500000
+ROG,Gaming,17,Core i7,4,16GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,4kg,6000000
+MSI,Gaming,15,Core i7,8,16GB,512GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 11,3kg,8000000
+Asus,Ultrabook,15,Core i7,8,16GB,256GB SSD,Intel + Nvidia GTX,Windows 11,2kg,6900000
+Asus,Notebook,11,Core i3,3,4GB,500GB HDD,Intel,Windows 10,1kg,1500000
+Asus,Ultrabook,14,Core i7,4,8GB,500GB HDD,Nvidia,Windows 10,2kg,3500000
+Dell,Workstation,14,Core i7,3,4GB,500GB HDD,Intel,Windows 10,2kg,1750000
+Asus,Workstation,14,Core i7,2,4GB,750GB HDD,Intel + Nvidia,Windows 10,2kg,2300000
+ROG,Gaming,17,Core i7,4,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,4kg,5000000
+Asus,Ultrabook,15,Core i7,4,8GB,500GB HDD,Intel,Windows 10,2kg,2500000
+Thinkpad,Workstation,14,Core i7,5,8GB,128GB SSD,Intel + AMD,Windows 10,2kg,3200000
+Hp,Workstation,14,Core i7,3,8GB,750GB HDD,Intel + AMD,Windows 10,2kg,2400000
+Lenovo,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel + AMD,Windows 11,2kg,4000000
+Lenovo,Workstation,14,Core i5,1,4GB,500GB HDD,Nvidia,Windows 10,2kg,1600000
+Acer,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3950000
+Asus,Gaming,15,Core i7,6,16GB,256GB SSD,Intel + Nvidia GTX,Windows 10,3kg,6000000
+Lenovo,2 in 1,14,Core i7,8,8GB,256GB SSD + 1000GB HDD,Intel + Nvidia,Windows 10,2kg,6400000
+Lenovo,Ultrabook,14,Ryzen 3,5,16GB,512GB SSD,AMD,Windows 11,2kg,6500000
+Dell,Workstation,13,Core i5,6,8GB,256GB SSD,Intel,Windows 11,2kg,2400000
+Thinkpad,Workstation,14,Core i5,6,4GB,256GB SSD,Intel,Windows 11,2kg,2800000
+Asus,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel + Nvidia,Windows 11,2kg,3100000
+Acer,Ultrabook,15,Core i5,8,8GB,256GB SSD,Intel,Windows 11,2kg,3000000
+Asus,Ultrabook,14,Core i7,8,8GB,256GB SSD,Intel + Nvidia,Windows 11,2kg,4400000
+Asus,Workstation,14,Core i7,5,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3100000
+Thinkpad,2 in 1,13,Core i5,3,4GB,500GB HDD,Intel,Windows 10,2kg,2000000
+Asus,Ultrabook,14,Core i7,8,8GB,256GB SSD,Intel,Windows 11,2kg,4200000
+Dell,2 in 1,14,Core i7,7,8GB,256GB SSD,Intel,Windows 11,2kg,4200000
+Hp,Workstation,14,Core i5,4,4GB,128GB SSD,Intel,Windows 11,2kg,2000000
+Acer,Workstation,14,Core i7,2,8GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,2100000
+Acer,Ultrabook,14,Core i7,10,8GB,256GB SSD,Intel + Nvidia,Windows 11,2kg,6000000
+Hp,Workstation,14,Core i5,7,8GB,256GB SSD,Intel,Windows 11,2kg,3300000
+Asus,2 in 1,14,Core i5,3,8GB,128GB SSD,Intel,Windows 10,2kg,2100000
+Dell,Workstation,13,Core i5,5,4GB,128GB SSD,Intel,Windows 11,2kg,2300000
+Dell,Workstation,13,Core i7,5,8GB,256GB SSD,Intel,Windows 11,2kg,3000000
+Hp,2 in 1,14,Core i7,7,8GB,512GB SSD,Intel,Windows 10,2kg,4000000
+Thinkpad,Workstation,14,Core i5,4,8GB,128GB SSD,Intel,Windows 11,2kg,2100000
+Asus,Gaming,14,Core i7,7,8GB,256GB SSD,Intel + Nvidia GTX,Windows 11,2kg,6000000
+Thinkpad,Workstation,14,Core i5,6,8GB,256GB SSD,Intel,Windows 11,2kg,2500000
+Asus,Ultrabook,14,Core i7,7,8GB,256GB SSD,Intel + Nvidia,Windows 11,2kg,4800000
+Dell,Workstation,13,Core i5,6,16GB,256GB SSD,Intel,Windows 11,2kg,2800000
+Hp,Workstation,14,Core i5,3,8GB,128GB SSD,Intel,Windows 10,2kg,2000000
+Acer,Ultrabook,15,Core i5,11,8GB,500GB HDD,Intel,Windows 10,2kg,5000000
+Dell,Workstation,14,Core i5,4,8GB,128GB SSD,Intel,Windows 11,2kg,1900000
+Dell,Workstation,14,Core i7,4,8GB,256GB SSD,Intel,Windows 11,2kg,2300000
+Hp,Workstation,14,Core i5,5,8GB,128GB SSD,Intel,Windows 11,2kg,2100000
+Hp,Workstation,14,Core i7,5,8GB,256GB SSD,Intel,Windows 11,2kg,2600000
+Thinkpad,Workstation,14,Core i5,3,4GB,320GB HDD,Intel,Windows 10,2kg,1600000
+Hp,Workstation,14,Core i7,6,8GB,256GB SSD,AMD,Windows 11,2kg,3100000
+Asus,Workstation,14,Core i7,2,8GB,128GB SSD,Intel,Windows 10,2kg,2000000
+Hp,Ultrabook,14,Core i5,3,8GB,128GB SSD,Nvidia,Windows 10,2kg,2000000
+Hp,Ultrabook,14,Core i7,4,8GB,256GB SSD,Intel,Windows 11,2kg,2600000
+Acer,Workstation,14,Core i5,4,8GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,2200000
+Lenovo,Ultrabook,14,Core i5,4,8GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,2000000
+Asus,Ultrabook,14,Core i7,7,8GB,512GB SSD,Intel,Windows 10,2kg,4500000
+Hp,Ultrabook,14,Core i7,6,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3600000
+Asus,Ultrabook,15,Core i7,7,8GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,3kg,5000000
+Hp,Ultrabook,14,Ryzen 5,3,8GB,256GB SSD,AMD,Windows 10,2kg,3500000
+Asus,Ultrabook,14,Core i5,4,8GB,128GB SSD,Intel,Windows 10,2kg,2600000
+Thinkpad,Workstation,14,Core i5,6,4GB,256GB SSD,Intel,Windows 11,2kg,3000000
+Dell,Gaming,15,Core i7,9,8GB,256GB SSD,Nvidia GTX,Windows 11,3kg,9500000
+Thinkpad,Workstation,14,Core i5,5,8GB,256GB SSD,Intel,Windows 10,2kg,2000000
+Dell,Ultrabook,14,Core i7,10,8GB,512GB SSD,Intel,Windows 10,2kg,5000000
+Thinkpad,2 in 1,14,Core i7,5,12GB,256GB SSD,Intel,Windows 10,2kg,3500000
+Hp,Ultrabook,14,Core i5,8,16GB,256GB SSD,Intel,Windows 10,2kg,4500000
+Asus,Ultrabook,14,Core i7,7,8GB,1000GB HDD,Intel + Nvidia,Windows 10,2kg,4500000
+Fujitsu,Workstation,14,Core i7,2,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,2200000
+Hp,Ultrabook,14,Core i5,8,8GB,512GB SSD,Intel,Windows 10,2kg,3500000
+Asus,Workstation,14,Core i7,2,8GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,2500000
+Acer,Gaming,15,Core i7,8,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,4kg,7900000
+Acer,Workstation,14,Core i7,6,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3600000
+Thinkpad,Workstation,14,Core i5,6,8GB,128GB SSD,Intel,Windows 10,2kg,2700000
+Acer,Ultrabook,14,Core i5,1,4GB,640GB HDD,Intel + Nvidia,Windows 7,2kg,1500000
+Hp,Ultrabook,13,Core i5,4,8GB,500GB HDD,Intel,Windows 10,2kg,2500000
+Sony Vaio,Workstation,14,Core i5,2,8GB,500GB HDD,Intel + AMD,Windows 10,2kg,1900000
+Asus,Workstation,14,Core i7,1,6GB,128GB SSD,AMD,Windows 10,2kg,1850000
+Asus,Workstation,14,Core i5,1,4GB,1000GB HDD,Intel + Nvidia,Windows 7,2kg,1450000
+Asus,Workstation,14,Core i7,2,8GB,500GB HDD,Intel + Nvidia,Windows 10,2kg,2400000
+Asus,Workstation,14,Core i5,3,8GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,2500000
+Asus,Workstation,14,Core i7,2,8GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,2400000
+Asus,Workstation,14,Core i5,2,8GB,500GB HDD,Intel + Nvidia,Windows 10,2kg,2100000
+Toshiba,Workstation,15,Core i7,2,8GB,750GB HDD,Intel + Nvidia,Windows 10,2kg,2400000
+Asus,Ultrabook,13,Core i7,6,8GB,256GB SSD,Intel,Windows 10,2kg,3900000
+Hp,Workstation,14,Core i5,4,4GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,2600000
+Hp,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel + AMD,Windows 10,2kg,4000000
+Hp,Ultrabook,14,Core i5,8,8GB,240GB SSD,Intel + Nvidia,Windows 10,2kg,4000000
+Asus,Ultrabook,14,Core i5,8,8GB,128GB SSD,Intel,Windows 10,2kg,3700000
+Dell,Ultrabook,14,Core i7,8,8GB,256GB SSD,Intel,Windows 11,2kg,4800000
+Thinkpad,Workstation,14,Core i5,6,8GB,256GB SSD,Intel,Windows 11,2kg,2450000
+Acer,Ultrabook,14,Core i5,1,8GB,500GB HDD,Intel,Windows 10,2kg,1650000
+Thinkpad,Workstation,14,Core i5,1,4GB,320GB HDD,Intel,Windows 10,2kg,1600000
+Hp,Workstation,14,Core i5,2,8GB,750GB HDD,AMD,Windows 10,2kg,1800000
+Lenovo,Ultrabook,14,Core i5,8,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia,Windows 11,2kg,4000000
+Hp,Ultrabook,15,Core i7,7,16GB,128GB SSD + 1000GB HDD,Intel + Nvidia,Windows 11,3kg,4000000
+Lenovo,Ultrabook,14,Ryzen 3,3,8GB,512GB SSD,AMD,Windows 10,2kg,3000000
+Acer,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel,Windows 11,2kg,3000000
+Alienware,Gaming,15,Core i7,8,16GB,256GB SSD + 1000GB HDD,Nvidia GTX,Windows 11,4kg,10000000
+Predator ,Gaming,15,Core i7,7,16GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,4kg,7500000
+Hp,Gaming,15,Core i7,8,16GB,256GB SSD + 1000GB HDD,Intel + Nvidia GTX,Windows 10,4kg,8500000
+Asus,Workstation,14,Core i5,1,8GB,128GB SSD,Nvidia,Windows 10,2kg,1800000
+Lenovo,Ultrabook,14,Ryzen 5,5,8GB,256GB SSD,AMD,Windows 10,2kg,5500000
+Hp,Ultrabook,15,Core i5,5,8GB,256GB SSD,Intel + AMD,Windows 10,2kg,2200000
+Acer,Ultrabook,14,Core i5,2,8GB,500GB HDD,Intel + Nvidia,Windows 7,2kg,1750000
+Acer,Ultrabook,14,Core i7,4,8GB,256GB SSD,Intel,Windows 10,2kg,2500000
+Dell,Ultrabook,14,Core i7,8,8GB,256GB SSD,Intel + AMD,Windows 10,2kg,4500000
+Hp,Ultrabook,14,Core i5,8,8GB,240GB SSD,Intel + Nvidia,Windows 11,2kg,4000000
+Hp,Workstation,14,Core i7,6,8GB,512GB SSD,Intel + Nvidia,Windows 10,2kg,4500000
+Asus,Ultrabook,14,Core i5,8,8GB,128GB SSD,Intel,Windows 10,2kg,3650000
+Toshiba,Workstation,14,Core i5,3,8GB,750GB HDD,AMD,Windows 10,2kg,1900000
+Lenovo,Workstation,14,Core i5,1,4GB,500GB HDD,Nvidia,Windows 10,2kg,1650000
+Acer,Ultrabook,14,Core i5,3,8GB,128GB SSD,Intel + Nvidia,Windows 10,2kg,2000000
+Lenovo,Ultrabook,14,Core i7,5,8GB,500GB HDD,AMD,Windows 10,2kg,4000000
+Toshiba,Workstation,14,Core i5,1,4GB,500GB HDD,AMD,Windows 7,2kg,1500000
+Asus,Workstation,14,Core i7,2,4GB,750GB HDD,Intel + Nvidia,Windows 10,2kg,2000000
+Acer,Ultrabook,14,Core i5,10,8GB,1000GB HDD,Intel,Windows 11,2kg,4300000
+Toshiba,Ultrabook,14,Core i5,6,8GB,500GB HDD,Intel,Windows 10,2kg,2500000
+Toshiba,Ultrabook,14,Core i5,5,8GB,256GB SSD,Intel,Windows 10,2kg,2400000
+Acer,Ultrabook,14,Core i5,11,16GB,512GB SSD,Intel,Windows 11,2kg,5500000
+Asus,Ultrabook,14,Core i7,7,8GB,256GB SSD,Intel + Nvidia,Windows 11,2kg,5000000
+Asus,Ultrabook,14,Core i7,11,16GB,512GB SSD,Intel + Nvidia,Windows 11,2kg,8300000
+Acer,Ultrabook,14,Core i7,8,8GB,512GB SSD,Intel + Nvidia,Windows 11,2kg,6500000
+Hp,Ultrabook,14,Core i5,8,8GB,256GB SSD,Intel + AMD,Windows 11,2kg,3800000
+Lenovo,2 in 1,14,Core i7,8,8GB,512GB SSD,Intel,Windows 11,2kg,4200000
+Hp,Ultrabook,14,Core i5,8,8GB,512GB SSD,Intel,Windows 11,2kg,4000000
+Dell,Gaming,14,Core i7,9,8GB,256GB SSD,Intel + Nvidia GTX,Windows 11,2kg,9500000
+Thinkpad,Workstation,14,Core i5,10,8GB,256GB SSD,Intel,Windows 11,2kg,4200000
+Asus,Ultrabook,14,Core i7,5,8GB,256GB SSD,Intel + Nvidia,Windows 10,2kg,3100000
+Thinkpad,Workstation,14,Core i5,8,8GB,256GB SSD,Intel,Windows 11,2kg,3250000
+Asus,Ultrabook,14,Core i7,8,8GB,256GB SSD,Intel,Windows 11,2kg,4150000
+Asus,Workstation,14,Core i5,8,8GB,256GB SSD,Intel + Nvidia,Windows 11,2kg,4500000
+Lenovo,Gaming,14,Core i7,4,8GB,256GB SSD,Intel + Nvidia GTX,Windows 10,2kg,4000000
+Lenovo,Gaming,14,Core i7,7,8GB,256GB SSD,Intel + Nvidia GTX,Windows 10,3kg,5800000

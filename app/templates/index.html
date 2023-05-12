@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+    <title>Laptop Price Prediction</title>
+  </head>
+  <body>
+    <div class="bg-img"></div>
+    <div class="box">
+      <div class="form-box">
+        <form action="{{url_for('predict')}}" method="post">
+          <h3 class="heading">2nd Laptop Price Prediction</h3>
+          <div class="row margin-btm-sm">
+            <label for="comp">Merk</label><br />
+            <select name="comp" id="comp">
+              <option value="Asus">Asus</option>
+              <option value="Acer">Acer</option>
+              <option value="Dell">Dell</option>
+              <option value="Hp">Hp</option>
+              <option value="Lenovo">Lenovo</option>
+              <option value="Toshiba">Toshiba</option>
+              <option value="Fujitsu">Fujitsu</option>
+              <option value="Thinkpad">Thinkpad</option>
+              <option value="ROG">ROG</option>
+              <option value="MSI">MSI</option>
+              <option value="Alienware">Alienware</option>
+              <option value="Predator">Predator</option>
+            </select>
+          </div>
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="type">Type</label><br />
+              <select name="type" id="type"></select>
+            </div>
+            <div class="row">
+              <label for="inch">Inches</label><br />
+              <select name="inch" id="inch"></select>
+            </div>
+          </div>
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="cpu">CPU</label><br />
+              <select name="cpu" id="cpu"></select>
+            </div>
+            <div class="row">
+              <label for="gen">Generation</label><br />
+              <select name="gen" id="gen">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+              </select>
+            </div>
+          </div>
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="ram">RAM</label><br />
+              <select name="ram" id="ram">
+                <option value="4">4GB</option>
+                <option value="6">6GB</option>
+                <option value="8">8GB</option>
+                <option value="10">10GB</option>
+                <option value="12">12GB</option>
+                <option value="16">16GB</option>
+                <option value="20">20GB</option>
+                <option value="32">32GB</option>
+              </select>
+            </div>
+            <div class="row">
+              <label for="gpu">GPU</label><br />
+              <select name="gpu" id="gpu">
+                <option value="Intel">Intel</option>
+                <option value="Nvidia">Nvidia Series</option>
+                <option value="Nvidia GTX">Nvidia GTX Series</option>
+                <option value="Nvidia RTX">Nvidia RTX Series</option>
+                <option value="Intel + Nvidia">Intel + Nvidia Series</option>
+                <option value="Intel + Nvidia GTX">
+                  Intel + Nvidia GTX Series
+                </option>
+                <option value="Intel + Nvidia RTX">
+                  Intel + Nvidia RTX Series
+                </option>
+                <option value="AMD">AMD Series</option>
+                <option value="Intel + AMD">Intel + AMD Series</option>
+              </select>
+            </div>
+          </div>
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="os">OS Windows</label><br />
+              <select name="os" id="os">
+                <option value="Windows 7">7</option>
+                <option value="Windows 8">8</option>
+                <option value="Windows 10">10</option>
+                <option value="Windows 11">11</option>
+              </select>
+            </div>
+            <div class="row">
+              <label for="weight">Weight</label><br />
+              <select name="weight" id="weight">
+                <option value="2">2kg</option>
+                <option value="3">3kg</option>
+                <option value="4">4kg</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="col margin-btm-sm">
+            <div class="row">
+              <label for="HDD">HDD</label><br />
+              <select name="HDD" id="HDD">
+                <option value="0">None</option>
+                <option value="250">250GB</option>
+                <option value="320">320GB</option>
+                <option value="500">500GB</option>
+                <option value="640">640GB</option>
+                <option value="750">750GB</option>
+                <option value="1000">1000GB</option>
+              </select>
+            </div>
+            <div class="row">
+              <label for="ssd">SSD</label><br />
+              <select name="ssd" id="ssd">
+                <option value="0">None</option>
+                <option value="120">120GB</option>
+                <option value="128">128GB</option>
+                <option value="240">240GB</option>
+                <option value="256">256GB</option>
+                <option value="512">512GB</option>
+                <option value="1000">1000GB</option>
+              </select>
+            </div>
+          </div>
+          <button class="btn" type="submit">Estimate</button>
+        </form>
+        <p class="predict">Estimated Price Around :</p>
+      </div>
+      <img
+        class="box-img"
+        src="{{ url_for('static', filename='img/1.jpg') }}"
+        alt=""
+      />
+    </div>
+    <script
+      type="text/javascript"
+      src="{{ url_for('static', filename='javascript/index.js') }}"
+    ></script>
+  </body>
+</html>
